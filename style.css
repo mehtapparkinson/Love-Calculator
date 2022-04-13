@@ -1,0 +1,49 @@
+/* font-family: 'Mansalva', cursive; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(75, 37, 109);
+
+}
+
+header {
+    text-align: center;
+    min-height: 50vh;
+  
+}
+
+body {
+    background-image: url(/LOVE\ CALCULATOR\ \(1\).png);
+    background-size: cover;
+    background-repeat: initial;
+    font-family: 'Mansalva', cursive;
+    font-size: 2rem;
+   
+}
+
+section {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+   line-height: 3;
+   font-family: 'Mansalva', cursive;
+   font-size: 1.5rem;
+}
+
+#submit-btn {
+    background-color: pink;
+    font-family: 'Mansalva', cursive;
+    text-align: center;
+    align-items: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#submit-btn:hover {
+    background-color:rgb(75, 37, 109);
+    color: pink;
+
+
+}
